@@ -26,7 +26,7 @@ SMP menawarkan kemudahan implementasi dan efisiensi pada jumlah prosesor yang ti
 
 ---
 
-## 2. Arsitektur Multiprosesor Terdistribusi
+## 2. Arsitektur Multiprosesor Asymmetric
 
 Pada bagian kanan gambar, diperlihatkan arsitektur **Multiprosesor Terdistribusi**.
 
